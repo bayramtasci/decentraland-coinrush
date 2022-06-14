@@ -1,0 +1,5 @@
+/node_modules
+npm-debug.lo
+.DS_Store
+/*.env
+bin
