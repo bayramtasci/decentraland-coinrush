@@ -1,0 +1,39 @@
+{
+    "gltfAssets": [
+        {
+            "name": "Floor Base Grass 01",
+            "id": "a13a1156-faf9-4592-bb2b-119016667fc6",
+            "gltfPath": "c9b17021-765c-4d9a-9966-ce93a9c323d1/FloorBaseGrass_01/FloorBaseGrass_01.glb"
+        },
+        {
+            "name": "dclscene",
+            "id": "952b67ba-1fc7-41d9-9824-11a72bff291f",
+            "gltfPath": "models/dclscene.glb"
+        },
+        {
+            "name": "Main Scene",
+            "id": "b575553d-b934-449a-b368-19762b0eadc0",
+            "gltfPath": "models/MainScene.glb"
+        },
+        {
+            "name": "My Scene",
+            "id": "c3f7ddd6-641d-459e-8958-e7206364e9be",
+            "gltfPath": "models/MyScene.glb"
+        },
+        {
+            "name": "base Light",
+            "id": "5926fd9b-6ace-4ae1-94d0-9c77ab81c8fe",
+            "gltfPath": "models/baseLight.glb"
+        },
+        {
+            "name": "coin",
+            "id": "2f99109e-5b4a-4278-8d49-0d6793f14347",
+            "gltfPath": "models/coin.glb"
+        },
+        {
+            "name": "platform",
+            "id": "27e56bf0-f820-478a-b60f-36218e7cec8a",
+            "gltfPath": "models/platform.glb"
+        }
+    ]
+}

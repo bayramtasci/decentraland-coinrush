@@ -1,0 +1,23 @@
+{
+    "entityNumberCounter": 5,
+    "entities": [
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Main Scene",
+            "uniqueNumber": 4,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":26.881378173828126,\"y\":0.3578615188598633,\"z\":35.131378173828128},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"b575553d-b934-449a-b368-19762b0eadc0\"}"
+                }
+            ]
+        }
+    ]
+}

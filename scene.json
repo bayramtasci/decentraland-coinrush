@@ -1,0 +1,63 @@
+{
+  "spawnPoints": [
+    {
+      "name": "spawn1",
+      "default": true,
+      "position": {
+        "x": 13.3,
+        "y": 1.5,
+        "z": 32
+      }
+    }
+  ],
+
+  "display": {
+    "title": "MyDecentralandGame",
+    "favicon": "favicon_asset",
+    "navmapThumbnail": "scene-thumbnail.png"
+  },
+  "owner": "",
+  "contact": {
+    "name": "author-name",
+    "email": ""
+  },
+  "main": "bin/game.js",
+  "tags": [],
+  "scene": {
+    "parcels": [
+      "0,0",
+      "0,1",
+      "0,2",
+      "0,3",
+      "1,0",
+      "1,1",
+      "1,2",
+      "1,3",
+      "2,0",
+      "2,1",
+      "2,2",
+      "2,3",
+      "3,0",
+      "3,1",
+      "3,2",
+      "3,3"
+    ],
+    "base": "0,0"
+  },
+  "source": {
+    "version": 1,
+    "origin": "builder",
+    "projectId": "8271349d-25a5-47a1-b59a-c937043af285",
+    "point": {
+      "x": 0,
+      "y": 0
+    },
+    "rotation": "east",
+    "layout": {
+      "rows": 4,
+      "cols": 4
+    }
+  }
+
+  
+}
