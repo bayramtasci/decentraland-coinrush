@@ -20,7 +20,6 @@ myScene5.addComponentOrReplace(myScene5GLTFShape)
 
 
 
-
 export let scene = {
 }
 
