@@ -254,6 +254,7 @@ function restartGame () {
     )
   }
 
+  
   coinnumber = 0
 
 }

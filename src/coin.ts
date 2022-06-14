@@ -8,6 +8,7 @@ import * as player from './game'
 
 
 
+
 const coinPickupSound = new Entity()
 coinPickupSound.addComponent(new Transform())
 engine.addEntity(coinPickupSound)
